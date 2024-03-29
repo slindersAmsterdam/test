@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 595.28 286.54">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f9faeb;
+        stroke: #fad2d2;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #eaeaea;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <g id="achtergrond">
+    <path id="hoek_zo" data-name="hoek zo" class="cls-2" d="m329.41,286.54h265.87v-96.3h-232.65c-5.13,0-15.93-1.12-25.2,6.25-9.62,7.92-8.02,14.47-8.02,18.87,0,23.73,0,47.45,0,71.18Z"/>
+    <path id="hoek_zw" data-name="hoek zw" class="cls-2" d="m265.87,286.54H0v-96.3h232.65c5.13,0,15.93-1.12,25.2,6.25,9.62,7.92,8.02,14.47,8.02,18.87,0,23.73,0,47.45,0,71.18Z"/>
+    <path id="hoek_no" data-name="hoek no" class="cls-2" d="m329.41,0h265.87v96.3h-232.65c-5.13,0-15.93,1.12-25.2-6.25-9.62-7.92-8.02-14.47-8.02-18.87C329.41,47.45,329.41,23.73,329.41,0Z"/>
+    <path id="hoek_nw" data-name="hoek nw" class="cls-2" d="m265.87.18H0v96.12h232.65c5.13,0,15.93,1.12,25.2-6.24,9.62-7.9,8.02-14.45,8.02-18.83,0-23.68,0-47.36,0-71.04Z"/>
+  </g>
+  <g id="richtingen">
+    <rect id="_11" data-name="11" class="cls-1" x="231.41" y="146.27" width="15" height="15"/>
+    <rect id="_10" data-name="10" class="cls-1" x="231.41" y="166.11" width="15" height="15"/>
+    <rect id="_8" data-name="8" class="cls-1" x="302.9" y="209.39" width="15" height="15"/>
+    <rect id="_6" data-name="6" class="cls-1" x="357.54" y="131.27" width="15" height="15"/>
+    <rect id="_5" data-name="5" class="cls-1" x="357.54" y="111.42" width="15" height="15"/>
+    <rect id="_2" data-name="2" class="cls-1" x="279.16" y="64.63" width="15" height="15"/>
+  </g>
+</svg>
