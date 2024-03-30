@@ -1,31 +1,50 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 595.28 286.54">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: #f9faeb;
-        stroke: #fad2d2;
-        stroke-miterlimit: 10;
-      }
-
-      .cls-2 {
-        fill: #eaeaea;
-        stroke-width: 0px;
-      }
-    </style>
-  </defs>
-  <g id="achtergrond">
-    <path id="hoek_zo" data-name="hoek zo" class="cls-2" d="m329.41,286.54h265.87v-96.3h-232.65c-5.13,0-15.93-1.12-25.2,6.25-9.62,7.92-8.02,14.47-8.02,18.87,0,23.73,0,47.45,0,71.18Z"/>
-    <path id="hoek_zw" data-name="hoek zw" class="cls-2" d="m265.87,286.54H0v-96.3h232.65c5.13,0,15.93-1.12,25.2,6.25,9.62,7.92,8.02,14.47,8.02,18.87,0,23.73,0,47.45,0,71.18Z"/>
-    <path id="hoek_no" data-name="hoek no" class="cls-2" d="m329.41,0h265.87v96.3h-232.65c-5.13,0-15.93,1.12-25.2-6.25-9.62-7.92-8.02-14.47-8.02-18.87C329.41,47.45,329.41,23.73,329.41,0Z"/>
-    <path id="hoek_nw" data-name="hoek nw" class="cls-2" d="m265.87.18H0v96.12h232.65c5.13,0,15.93,1.12,25.2-6.24,9.62-7.9,8.02-14.45,8.02-18.83,0-23.68,0-47.36,0-71.04Z"/>
-  </g>
-  <g id="richtingen">
-    <rect id="_11" data-name="11" class="cls-1" x="231.41" y="146.27" width="15" height="15"/>
-    <rect id="_10" data-name="10" class="cls-1" x="231.41" y="166.11" width="15" height="15"/>
-    <rect id="_8" data-name="8" class="cls-1" x="302.9" y="209.39" width="15" height="15"/>
-    <rect id="_6" data-name="6" class="cls-1" x="357.54" y="131.27" width="15" height="15"/>
-    <rect id="_5" data-name="5" class="cls-1" x="357.54" y="111.42" width="15" height="15"/>
-    <rect id="_2" data-name="2" class="cls-1" x="279.16" y="64.63" width="15" height="15"/>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 28.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="595.276px" height="286.542px" viewBox="0 0 595.276 286.542" enable-background="new 0 0 595.276 286.542"
+	 xml:space="preserve">
+<g id="achtergrond">
+	<g id="hoek_zo">
+		<path fill="#EAEAEA" d="M329.409,286.542h265.867v-96.3c-77.548,0-155.097,0-232.645,0c-5.133,0-15.927-1.119-25.203,6.251
+			c-9.618,7.916-8.02,14.473-8.019,18.87C329.41,239.088,329.409,262.815,329.409,286.542z"/>
+	</g>
+	<g id="hoek_zw">
+		<path fill="#EAEAEA" d="M265.867,286.542H0v-96.3c77.548,0,155.097,0,232.645,0c5.133,0,15.927-1.119,25.203,6.251
+			c9.618,7.916,8.02,14.473,8.019,18.87C265.866,239.088,265.867,262.815,265.867,286.542z"/>
+	</g>
+	<g id="hoek_no">
+		<path fill="#EAEAEA" d="M329.409,0h265.867v96.3c-77.548,0-155.097,0-232.645,0c-5.133,0-15.927,1.119-25.203-6.251
+			c-9.618-7.916-8.02-14.473-8.019-18.87C329.41,47.453,329.409,23.727,329.409,0z"/>
+	</g>
+	<g id="hoek_nw">
+		<path fill="#EAEAEA" d="M265.867,0.183H0v96.117c77.548,0,155.097,0,232.645,0c5.133,0,15.927,1.117,25.203-6.239
+			c9.618-7.901,8.02-14.445,8.019-18.834C265.866,47.546,265.867,23.865,265.867,0.183z"/>
+	</g>
+</g>
+<g id="richtingen">
+	<g id="_x31_1">
+		<rect x="231.415" y="146.266" fill="#F9FAEB" width="15" height="15"/>
+		<path fill="#FAD2D2" d="M246.915,161.766h-16v-16h16V161.766z M231.915,160.766h14v-14h-14V160.766z"/>
+	</g>
+	<g id="_x31_0">
+		<rect x="231.415" y="166.112" fill="#F9FAEB" width="15" height="15"/>
+		<path fill="#FAD2D2" d="M246.915,181.612h-16v-16h16V181.612z M231.915,180.612h14v-14h-14V180.612z"/>
+	</g>
+	<g id="_x38_">
+		<rect x="302.904" y="209.394" fill="#F9FAEB" width="15" height="15"/>
+		<path fill="#FAD2D2" d="M318.404,224.894h-16v-16h16V224.894z M303.404,223.894h14v-14h-14V223.894z"/>
+	</g>
+	<g id="_x36__00000114759722020509786950000013285444821343294381_">
+		<rect x="357.543" y="131.266" fill="#F9FAEB" width="15" height="15"/>
+		<path fill="#FAD2D2" d="M373.043,146.766h-16v-16h16V146.766z M358.043,145.766h14v-14h-14V145.766z"/>
+	</g>
+	<g id="_x35__00000083062988335645565600000000114837240280912554_">
+		<rect x="357.543" y="111.42" fill="#F9FAEB" width="15" height="15"/>
+		<path fill="#FAD2D2" d="M373.043,126.92h-16v-16h16V126.92z M358.043,125.92h14v-14h-14V125.92z"/>
+	</g>
+	<g id="_x32_">
+		<rect x="279.16" y="64.628" fill="#F9FAEB" width="15" height="15"/>
+		<path fill="#FAD2D2" d="M294.66,80.127h-16v-16h16V80.127z M279.66,79.127h14v-14h-14V79.127z"/>
+	</g>
+</g>
 </svg>
