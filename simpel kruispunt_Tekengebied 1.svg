@@ -22,7 +22,7 @@
 	</g>
 </g>
 <g id="richtingen">
-	<g id="_x31_1">
+	<g name="_x31_1">
 		<rect x="231.415" y="146.266" fill="#F9FAEB" width="15" height="15"/>
 		<path fill="#FAD2D2" d="M246.915,161.766h-16v-16h16V161.766z M231.915,160.766h14v-14h-14V160.766z"/>
 	</g>
