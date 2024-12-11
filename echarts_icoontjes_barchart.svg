@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="staafdiagram" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 70.87 70.87">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #9d9d9c;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <line class="cls-1" x1="3.82" y1="68.35" x2="66.87" y2="68.35"/>
+  <polygon class="cls-1" points="7.88 27.37 19.82 27.22 19.7 56.21 8 56.21 7.88 27.37"/>
+  <rect class="cls-1" x="29.54" y="14.79" width="11.73" height="41.42"/>
+  <polygon class="cls-1" points="51.38 56.21 63.26 56.35 63.26 1.53 51.38 1.53 51.38 56.21"/>
+</svg>

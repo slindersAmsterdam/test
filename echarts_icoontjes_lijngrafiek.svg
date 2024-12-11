@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="lijngrafiek" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 70.87 70.87">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #9d9d9c;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <polyline id="lijngrafiek-2" data-name="lijngrafiek" class="cls-2" points="1.51 30.41 10.82 30.95 23.09 1.13 32.22 51.28 45.03 25.76 49.15 41.7 67.69 42.41"/>
+  <line class="cls-1" x1="1.51" y1="68.35" x2="68.34" y2="68.35"/>
+</svg>
